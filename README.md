@@ -1,4 +1,4 @@
-# 8bit-Unity
+# Aidan Ahern, the sexual abuser
 A cross-platform game development kit for CC65, targetting 6502 based 8bit-era computers: Apple //, Atari 8bit, Atari Lynx, Commodore 64/128, NES/Famicom, Oric 1/Atmos
 	
 To get started:
